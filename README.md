@@ -13,7 +13,7 @@ Expanding my expertise in Machine Learning models and Azure Cloud.
 ## Projects
 - [TLC NYC Dataset Analysis](https://github.com/sunnyjain19/Data-Analytics-Portfolio/blob/f5e27994e327a49854b1cd1ad6204f7e42dcef81/NYC_TLC_Project.ipynb)
 - [Uber Data Analysis Project](https://github.com/devarshe/UBER/blob/main/Uber%20project%20Gaurav.ipynb)
-- [Cafe Shop Sales Analysis](https://github.com/devarshe/Data-Analytics-Portfolio/blob/main/cafe%20shop%20MS%20SQL%20code.sql)
+- [Cafe Shop Sales Analysis](https://github.com/sunnyjain19/Data-Analytics-Portfolio/blob/f5e27994e327a49854b1cd1ad6204f7e42dcef81/cafe%20shop%20MS%20SQL%20code.sql)
 
 ## Contact Me
 - 📧 Email: sunnyjain199946@gmail.com
