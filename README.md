@@ -12,9 +12,9 @@ Expanding my expertise in Machine Learning models and Azure Cloud.
 
 ## Projects
 - [TLC NYC Dataset Analysis](https://github.com/sunnyjain19/Data-Analytics-Portfolio/blob/f5e27994e327a49854b1cd1ad6204f7e42dcef81/NYC_TLC_Project.ipynb)
-- [Uber Data Analysis Project]([https://github.com/devarshe/UBER/blob/main/Uber%20project%20Gaurav.ipynb](https://github.com/sunnyjain19/Data-Analytics-Portfolio/blob/5170556f9fabdc0d9f4d329c959b08e5cbeca7a5/Uber%20project.ipynb))
+- [Uber Data Analysis Project](https://github.com/sunnyjain19/Data-Analytics-Portfolio/blob/5170556f9fabdc0d9f4d329c959b08e5cbeca7a5/Uber%20project.ipynb)
 - [Cafe Shop Sales Analysis](https://github.com/sunnyjain19/Data-Analytics-Portfolio/blob/f5e27994e327a49854b1cd1ad6204f7e42dcef81/cafe%20shop%20MS%20SQL%20code.sql)
-- [Netflix EDA Project]([https://github.com/devarshe/UBER/blob/main/Uber%20project%20Gaurav.ipynb](https://github.com/sunnyjain19/Data-Analytics-Portfolio/blob/f5e27994e327a49854b1cd1ad6204f7e42dcef81/OTT%20Project%20Python%20code.ipynb))
+- [Netflix EDA Project](https://github.com/sunnyjain19/Data-Analytics-Portfolio/blob/f5e27994e327a49854b1cd1ad6204f7e42dcef81/OTT%20Project%20Python%20code.ipynb)
 
 ## Contact Me
 - 📧 Email: sunnyjain199946@gmail.com
