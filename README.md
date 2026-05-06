@@ -14,6 +14,7 @@ Expanding my expertise in Machine Learning models and Azure Cloud.
 - [Superstore APAC Interactive Tableau Dashboard](https://github.com/sunnyjain19/Superstore-APAC-Interactive-Tableau-Dashboard)
 - [Target Ecommerce SQL Analysis](https://github.com/sunnyjain19/target-ecommerce-sql-analysis)
 - [Netflix Global Catalog Analysis](https://github.com/sunnyjain19/-Netflix-Global-Catalog-Analysis)
+- [Admissions Funnel Excel Dashboard](https://github.com/sunnyjain19/Sales-Lead-Funnel-Diagnosis-Dashboard)
 
 ## Contact Me
 - 📧 Email: sunnyjain199946@gmail.com
