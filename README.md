@@ -11,7 +11,7 @@ Expanding my expertise in Machine Learning models and Azure Cloud.
 - **Tools**: Excel, Jupyter, Git, Colab
 
 ## Projects
-- [Superstore APAC Interactive Tableau Dashboard](https://github.com/sunnyjain19/Superstore-APAC-Interactive-Tableau-Dashboard)
+- [Superstore APAC Tableau Dashboard](https://github.com/sunnyjain19/Superstore-APAC-Interactive-Tableau-Dashboard)
 - [Target Ecommerce SQL Analysis](https://github.com/sunnyjain19/target-ecommerce-sql-analysis)
 - [Netflix Global Catalog Analysis](https://github.com/sunnyjain19/-Netflix-Global-Catalog-Analysis)
 - [Admissions Funnel Excel Dashboard](https://github.com/sunnyjain19/Sales-Lead-Funnel-Diagnosis-Dashboard)
